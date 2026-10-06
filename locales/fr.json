@@ -1,0 +1,17 @@
+{
+    "no_malaria_title": "PAS DE PALUDISME",
+    "no_malaria_desc": "Vous n'avez pas le paludisme !",
+    "cured_title": "GUÉRI",
+    "cured_desc": "Le médicament contre le paludisme vous a guéri !",
+    "error_title": "ERREUR",
+    "no_medicine_desc": "Vous n'avez pas de médicament contre le paludisme !",
+    "dead_cuffed_desc": "Vous ne pouvez pas utiliser de médicament en étant mort ou menotté !",
+    "infected_title": "INFECTÉ",
+    "infected_desc": "Vous avez contracté le paludisme !",
+    "infected_area_desc": "Vous avez contracté le paludisme dans une zone dangereuse !",
+    "mystery_box_title": "BOÎTE MYSTÉRIEUSE",
+    "mystery_box_desc": "Vous avez ouvert la boîte et n'avez trouvé que de la poussière...",
+    "symptoms_title": "SYMPTÔMES DU PALUDISME",
+    "symptoms_desc": "Votre état s'aggrave !",
+    "using_medicine": "🩺 Utilisation du médicament contre le paludisme...❤️"
+}

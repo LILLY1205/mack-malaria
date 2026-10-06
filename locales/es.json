@@ -1,0 +1,17 @@
+{
+    "no_malaria_title": "SIN MALARIA",
+    "no_malaria_desc": "¡No tienes malaria!",
+    "cured_title": "CURADO",
+    "cured_desc": "¡La medicina contra la malaria te ha sanado!",
+    "error_title": "ERROR",
+    "no_medicine_desc": "¡No tienes medicina contra la malaria!",
+    "dead_cuffed_desc": "¡No puedes usar medicina mientras estás muerto o esposado!",
+    "infected_title": "INFECTADO",
+    "infected_desc": "¡Has contraído malaria!",
+    "infected_area_desc": "¡Has contraído malaria en una zona peligrosa!",
+    "mystery_box_title": "CAJA MISTERIOSA",
+    "mystery_box_desc": "Abriste la caja y solo encontraste polvo...",
+    "symptoms_title": "SÍNTOMAS DE MALARIA",
+    "symptoms_desc": "¡Tu condición está empeorando!",
+    "using_medicine": "🩺 Usando medicina contra la malaria...❤️"
+}

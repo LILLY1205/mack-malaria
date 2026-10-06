@@ -1,0 +1,17 @@
+{
+    "no_malaria_title": "NO MALARIA",
+    "no_malaria_desc": "You don't have Malaria!",
+    "cured_title": "CURED",
+    "cured_desc": "Malaria medicine has healed you!",
+    "error_title": "ERROR",
+    "no_medicine_desc": "You don't have any malaria medicine!",
+    "dead_cuffed_desc": "You cannot use medicine while dead or handcuffed!",
+    "infected_title": "INFECTED",
+    "infected_desc": "You have contracted Malaria!",
+    "infected_area_desc": "You have contracted Malaria in a dangerous area!",
+    "mystery_box_title": "MYSTERIOUS BOX",
+    "mystery_box_desc": "You opened the box and found only dust...",
+    "symptoms_title": "MALARIA SYMPTOMS",
+    "symptoms_desc": "Your condition is getting worse!",
+    "using_medicine": "🩺 Using Malaria Medicine...❤️"
+}

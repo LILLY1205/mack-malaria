@@ -1,0 +1,3 @@
+   ['oldbox'] = {['name'] = 'oldbox', ['label'] = 'Old Box', ['weight'] = 100, ['type'] = 'item', ['image'] = 'oldbox.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'A suspicious old box that might contain something dangerous'},
+   ['malaria_medicine'] = {['name'] = 'malaria_medicine', ['label'] = 'Malaria Medicine', ['weight'] = 50, ['type'] = 'item', ['image'] = 'malaria_medicine.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'A potent medicine to cure malaria'},
+    
